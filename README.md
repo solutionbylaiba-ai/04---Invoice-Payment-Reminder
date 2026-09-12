@@ -4,7 +4,7 @@ Every day, this automation checks every unpaid invoice in a Google Sheet, works 
 
 ## Demo Video
 
-[▶ Watch the demo video](./demo/04-invoice-reminder-demo.mp4)
+Check my Linkedin account: http://linkedin.com/in/solutionbylaiba or mail me at solutionbylaiba@gmail.com
 
 
 ## Screenshots
